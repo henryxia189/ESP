@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="45px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="clip61">
+      <path d="M 817.5 755  C 805.0125 755  795 744.9875  795 732.5  L 795 732.5  C 795 720.0125  805.0125 710  817.5 710  L 820.5 710  C 832.9875 710  843 720.0125  843 732.5  L 843 732.5  C 843 744.9875  832.9875 755  820.5 755  " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -795 -710 )">
+    <path d="M 795 710  L 843 710  L 843 755  L 795 755  L 795 710  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip61)" />
+    <path d="M 798 713  L 840 713  L 840 752  L 798 752  L 798 713  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip61)" />
+    <path d="M 823.335 723.5  C 821.445 723.5  819.96 722.015  819.96 720.125  C 819.96 718.235  821.445 716.75  823.335 716.75  C 825.225 716.75  826.71 718.235  826.71 720.125  C 826.71 722.015  825.225 723.5  823.335 723.5  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip61)" />
+    <path d="M 799 751  L 799 730.65  L 809 721.4  L 823 730.1875  L 831 726.95  L 839 730.1875  L 839 751  L 799 751  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip61)" />
+  </g>
+</svg>
